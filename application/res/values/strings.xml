@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello nsb-refusjon!</string>
-    <string name="app_name">nsb-refusjon</string>
+  <string name="app_name">NSB Refusjon</string>
+  <string name="new_claim_label">Nytt refusjonskrav</string>
+  <string name="configure_label">Konfigurer</string>
+  <string name="help_label">Hjelp</string>
+  <string name="exit_label">Avslutt</string>
+  <string name="help_text">\<!--TODO-->
+    Her kommer hjelp
+    Her kommer hjelp
+  </string>
+  <string name="new_claim_text">new claim view</string>
+  <string name="configuration_text">configuration view</string>
 </resources>
